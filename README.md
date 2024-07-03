@@ -32,6 +32,10 @@
     <a href="https://www.iso.org/standard/74528.html style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="60" height="60"/></a>
     <a href="http://www.stroustrup.com/C++.html style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="60" height="60"/></a>
     <a href="https://www.php.net/ style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="60" height="60"/></a>
+</a>
+
+</a>
+
   </p>
 
   <h3>Frameworks & Libraries</h3>
@@ -47,7 +51,7 @@
 
   <h3>Databases</h3>
   <p>
-    <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="60" height="60"/></a>
+    <a href="https://www.mysql.com" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/>
     <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="60" height="60"/></a>
   </p>
 
