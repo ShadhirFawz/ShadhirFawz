@@ -23,20 +23,15 @@
   <h2>🛠️ Technologies & Tools</h2>
 
   <h3>Languages</h3>
-  <p>
-    <a href="https://www.java.com" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="60" height="60"/></a>
-    <t></t>
-    <a href="https://www.javascript.com" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="60" height="60"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="60" height="60"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="60" height="60"/></a>
-    <a href="https://www.iso.org/standard/74528.html style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="60" height="60"/></a>
-    <a href="http://www.stroustrup.com/C++.html style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="60" height="60"/></a>
-    <a href="https://www.php.net/ style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="60" height="60"/></a>
-</a>
-
-</a>
-
-  </p>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="60" height="60"/></a>
+    <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="60" height="60"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="60" height="60"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="60" height="60"/></a>
+    <a href="https://www.iso.org/standard/74528.html"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="60" height="60"/></a>
+    <a href="http://www.stroustrup.com/C++.html"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="60" height="60"/></a>
+    <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="60" height="60"/></a>
+  </div>
 
   <h3>Frameworks & Libraries</h3>
   <p>
