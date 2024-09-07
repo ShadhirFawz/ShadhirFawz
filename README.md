@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-family: 'Times New Roman', Times, serif; font-size: 2.5em; color: #2c3e50;">Hello! 👋, meet me Shadhir </h1>
   <div align="left">
-  <p>I'm a Full-Stack Developer who transform ideas into dynamic web experiences. Being experienced in Java, JavaScript, Python and frameworks which are currently in trend. I design user-friendly and engaging interfaces.</p>
+  <p>I'm a Full-Stack Developer who transform ideas into dynamic web experiences. Being experienced in Java, JavaScript, Python and frameworks which are currently in trend, I develop user friendly interfaces with a maintanance code structure to find software solutions. Dive into my repositories for my projects.</p>
   </div>
 </div>
 
