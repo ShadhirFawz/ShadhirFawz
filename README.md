@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-family: 'Times New Roman', Times, serif; font-size: 2.5em; color: #2c3e50;">Hello! 👋, meet me Shadhir </h1>
   <div align="left">
-  <p>I'm an Undergraduate 🎓 at SLIIT in Information Technology. I'm passionate about software development and have experience in various technologies.</p>
+  <p>I'm a Full-Stack Developer who transform ideas into dynamic web experiences. Being experienced in Java, JavaScript, Python and frameworks which are currently in trend. I design user-friendly and engaging interfaces.</p>
   </div>
 </div>
 
