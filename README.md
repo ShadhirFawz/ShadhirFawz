@@ -11,7 +11,7 @@
   <ul style="list-style-type:none;">
     <li>💡 I’m currently learning and exploring new technologies.</li>
     <br>
-    <li>💼 A developer with experience in Java and JavaScript and also as a mobile application developer.</li>
+    <li>💼 A developer with experience various Programming Languages and Frameworks and also as a mobile application developer.</li>
     <br>
     <li>👯 Looking to collaborate on exciting projects.</li>
     <br>
@@ -26,10 +26,11 @@
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="60" height="60"/></a>
     <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="60" height="60"/></a>
+    <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="60" height="60"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="60" height="60"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="60" height="60"/></a>
     <a href="https://www.iso.org/standard/74528.html"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="60" height="60"/></a>
-    <a href="http://www.stroustrup.com/C++.html"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="60" height="60"/></a>
+    <a href="https://cpp-lang.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" width="60" height="60"/></a>
     <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="60" height="60"/></a>
   </div>
 
@@ -48,13 +49,18 @@
   <p>
     <a href="https://www.mysql.com" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/>
     <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="60" height="60"/></a>
+    <a href="https://www.oracle.com" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
+</a>
   </p>
+  
 
   <h3>Tools</h3>
   <p>
     <a href="https://github.com/ShadhirFawz"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="60" height="60"/></a>
     <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="60" height="60"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio" width="60" height="60"/></a>
+    <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="60" height="60"/></a>
   </p>
 </div>
 
