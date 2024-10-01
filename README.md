@@ -1,23 +1,28 @@
-<div align="center">
-  <h1 style="font-family: 'Times New Roman', Times, serif; font-size: 2.5em; color: #2c3e50;">Hello! 👋, meet me Shadhir </h1>
+<div align="left">
+  <h1 style="font-family: 'Times New Roman', Times, serif; font-size: 2.5em; color: #2c3e50;">Hello! 👋, Shadhir here </h1>
   <div align="left">
   <p>I'm a Full-Stack Developer who transform ideas into dynamic web experiences. Being experienced in Java, JavaScript, Python and frameworks which are currently in trend, I develop user friendly interfaces with a maintanance code structure to find software solutions. Dive into my repositories for my projects.</p>
   </div>
 </div>
 
 
-  <h2>😊 Happy to introduce myself</h2>
+  <h2> </h2>
   <div align="left">
   <ul style="list-style-type:none;">
     <li>💡 I’m currently learning and exploring new technologies.</li>
-    <br>
-    <li>💼 A developer with experience various Programming Languages and Frameworks and also as a mobile application developer.</li>
-    <br>
+    <li>💼 A developer with experience in various Programming Languages and Frameworks and also as a mobile application developer.</li>
     <li>👯 Looking to collaborate on exciting projects.</li>
-    <br>
     <li>📫 Reach me: <a href="https://www.linkedin.com/in/shadhir-fawz-30739730a/">Text me on LinkedIn</a></li>
   </ul>
 </div>
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadhirfawz&theme=tokyonight&hide_border=false&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=495&card_height=1000" alt="Top Languages" />
+</div>
+
 
 <div align="center">
   <h2>🛠️ Technologies & Tools</h2>
@@ -61,6 +66,7 @@
     <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="60" height="60"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio" width="60" height="60"/></a>
     <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="60" height="60"/></a>
+    <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" alt="Eclipse IDE" width="60" height="60"/></a>
   </p>
 </div>
 
@@ -78,7 +84,9 @@
 
 <div align="center">
   <p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!</p>
-  <p>⭐️ From <a href="https://github.com/ShadhirFawz">Shadhir 😊</a></p>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=shadhirfawz&icon=0&color=0" alt="Profile Visit Count"/>
+  </a>
 </div>
 
 <!--
