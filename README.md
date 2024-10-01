@@ -17,11 +17,12 @@
 </div>
 
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadhirfawz&theme=tokyonight&hide_border=false&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=495&card_height=1000" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadhirfawz&theme=tokyonight&hide_border=false&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&card_height="1000" alt="GitHub Streak" width="440"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=495" alt="Top Languages" />
 </div>
+
 
 
 <div align="center">
