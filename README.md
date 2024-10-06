@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadhirfawz&theme=tokyonight&hide_border=false&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" width="445" />
   <img src="https://github-readme-stats.vercel.app/api?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="405" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400" alt="Top Languages" height="180"/>
 </div>
 
 
@@ -36,6 +36,7 @@
     <a href="https://www.iso.org/standard/74528.html"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="60" height="60"/></a>
     <a href="https://cpp-lang.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" width="60" height="60"/></a>
     <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="60" height="60"/></a>
+    <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="60" height="60" style="filter: brightness(0) invert(1);"/></a>
   </div>
 
   <h3>Frameworks & Libraries</h3>
@@ -64,8 +65,11 @@
     <a href="https://github.com/ShadhirFawz"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="60" height="60"/></a>
     <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="60" height="60"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio" width="60" height="60"/></a>
+    <a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/></a>
     <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="60" height="60"/></a>
     <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" alt="Eclipse IDE" width="60" height="60"/></a>
+    <a href="https://figma.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="60" height="60"/></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="60" height="60" style="filter: brightness(0) invert(1);"/></a>
   </p>
 </div>
 
