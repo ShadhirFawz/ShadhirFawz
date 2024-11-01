@@ -45,8 +45,8 @@
     <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="Redux" width="60" height="60"/></a>
     <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="60" height="60"/></a>
     <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="60" height="60"/></a>
-    <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/>
-</a>
+    <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/></a>
+    <a href="https://spring.io/projects/spring-boot" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60"/></a>
 
   </p>
 
@@ -54,8 +54,8 @@
   <p>
     <a href="https://www.mysql.com" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/>
     <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="60" height="60"/></a>
-    <a href="https://www.oracle.com" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
+    <a href="https://www.oracle.com" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/> </a>
+    <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/images/branding/product/1x/firebase_64dp.png" alt="Firebase" width="60" height="60"/>
 </a>
   </p>
   
@@ -69,7 +69,6 @@
     <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="60" height="60"/></a>
     <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" alt="Eclipse IDE" width="60" height="60"/></a>
     <a href="https://figma.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="60" height="60"/></a>
-    <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="60" height="60" style="filter: brightness(0) invert(1);"/></a>
   </p>
 </div>
 
