@@ -32,6 +32,7 @@
     <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="60" height="60"/></a>
     <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="60" height="60"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="60" height="60"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="60" height="60" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="60" height="60"/></a>
     <a href="https://www.iso.org/standard/74528.html"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="60" height="60"/></a>
     <a href="https://cpp-lang.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" width="60" height="60"/></a>
