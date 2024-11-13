@@ -48,6 +48,9 @@
     <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="60" height="60"/></a>
     <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/></a>
     <a href="https://spring.io/projects/spring-boot" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60"/></a>
+    <a href="https://tailwindcss.com" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60"/> </a>
+
 
   </p>
 
