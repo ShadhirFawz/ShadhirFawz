@@ -27,7 +27,7 @@
     src="https://github-readme-stats.vercel.app/api?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&border_radius=15" 
     alt="GitHub Stats" 
     width="405" 
-    height="182" 
+    height="184" 
     style="margin: 10px;" 
   />
   <img 
