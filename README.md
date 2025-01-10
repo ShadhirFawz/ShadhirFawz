@@ -17,10 +17,27 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadhirfawz&theme=tokyonight&hide_border=false&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" width="445" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="405" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400" alt="Top Languages" height="180"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shadhirfawz&theme=tokyonight&hide_border=false&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&border_radius=15" 
+    alt="GitHub Streak" 
+    width="445" 
+    style="margin: 10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&border_radius=15" 
+    alt="GitHub Stats" 
+    width="405" 
+    height="182" 
+    style="margin: 10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400&border_radius=15" 
+    alt="Top Languages" 
+    height="180" 
+    style="margin: 10px;" 
+  />
 </div>
+
 
 
 <div align="center">
