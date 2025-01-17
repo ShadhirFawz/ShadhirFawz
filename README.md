@@ -65,20 +65,30 @@
     <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="60" height="60"/></a>
     <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/></a>
     <a href="https://spring.io/projects/spring-boot" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60"/></a>
-    <a href="https://tailwindcss.com" style="display: inline-block;">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60"/> </a>
+    <a href="https://tailwindcss.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60"/> </a>
+    <a href="https://developer.android.com/jetpack/compose" style="display: inline-block;"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="Jetpack Compose" width="60" height="60"/> </a>
+
 
 
   </p>
 
   <h3>Databases</h3>
   <p>
-    <a href="https://www.mysql.com" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/>
-    <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="60" height="60"/></a>
-    <a href="https://www.oracle.com" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/> </a>
-    <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/images/branding/product/1x/firebase_64dp.png" alt="Firebase" width="60" height="60"/>
-</a>
-  </p>
+    <a href="https://www.mysql.com/" style="text-decoration: none; margin-right: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/>
+    </a>
+    <a href="https://www.mongodb.com/" style="text-decoration: none; margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="60" height="60"/>
+    </a>
+    <a href="https://www.oracle.com" style="text-decoration: none; margin-right: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
+    </a>
+    <a href="https://firebase.google.com/" style="text-decoration: none;">
+        <img src="https://www.gstatic.com/images/branding/product/1x/firebase_64dp.png" alt="Firebase" width="60" height="60"/>
+    </a>
+</p>
+
+
   
 
   <h3>Tools</h3>
