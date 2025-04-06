@@ -1,5 +1,10 @@
 <div align="left">
-  <h1 style="font-family: 'Times New Roman', Times, serif; font-size: 2.5em; color: #2c3e50;">Hello! 👋, Shadhir here </h1>
+  <h1 style="font-family: Verdana, sans-serif; 
+           font-size: 2.8em; 
+           color: #3498db;
+           text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
+   Hello! 👋, Shadhir here
+</h1>
   <div align="left">
   <p>I'm a Full-Stack Developer who transform ideas into dynamic web experiences. Being experienced in Java, JavaScript, Python and frameworks which are currently in trend, I develop user friendly interfaces with a maintanance code structure to find software solutions. Dive into my repositories for my projects.</p>
   </div>
@@ -51,7 +56,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="60" height="60"/></a>
     <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="60" height="60" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="60" height="60"/></a>
-    <a href="https://www.iso.org/standard/74528.html"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="60" height="60"/></a>
     <a href="https://cpp-lang.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" width="60" height="60"/></a>
     <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="60" height="60"/></a>
     <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="60" height="60" style="filter: brightness(0) invert(1);"/></a>
@@ -60,7 +64,6 @@
   <h3>Frameworks & Libraries</h3>
   <p>
     <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="60" height="60"/></a>
-    <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="Redux" width="60" height="60"/></a>
     <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="60" height="60"/></a>
     <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="60" height="60"/></a>
     <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/></a>
@@ -115,12 +118,9 @@
   </p>
 </div>
 
-<div align="center">
-  <p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!</p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shadhirfawz&icon=0&color=0" alt="Profile Visit Count"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=Shadhirfawz"><img src="https://api.visitorbadge.io/api/visitors?path=Shadhirfawz&label=Profile%20Visits&labelColor=%23697689&countColor=%23263759&labelStyle=upper" /></a>
+</p>
 
 <!--
 <div align="center">
