@@ -3,8 +3,12 @@
            font-size: 2.8em; 
            color: #3498db;
            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
-   Hello! 👋, Shadhir here
+   Hello! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> , It's Shadhir here
 </h1>
+  <div align="center">
+    <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/SHAD_F%20Banner.png" alt="SHAD_F Banner" style="width: 100%; border-radius: 15px;" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Screenshot 1" width="500" />
+  </div>
   <div align="left">
   <p>I'm a Full-Stack Developer who transform ideas into dynamic web experiences. Being experienced in Java, JavaScript, Python and frameworks which are currently in trend, I develop user friendly interfaces with a maintanance code structure to find software solutions. Dive into my repositories for my projects.</p>
   </div>
