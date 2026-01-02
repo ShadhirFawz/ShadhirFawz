@@ -14,6 +14,17 @@
   </div>
 </div>
 
+<!-- GitHub Stats Section -->
+<div align="center" style="background-color: #4b0082; padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ShadhirFawz&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ShadhirFawz&theme=github_dark" alt="GitHub Streak" />
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShadhirFawz&layout=compact&theme=github_dark&exclude_lang=Jupyter%20Notebook" alt="Top Languages" />
+  </div>
+</div>>
+
 
   <h2> </h2>
   <div align="left">
