@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/1767846636101.png" alt="Hello header">
+  <h1 style="font-family: Verdana, sans-serif; 
+             font-size: 2.8em; 
+             color: #3498db;
+             text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
+     𝐇𝐞𝐲 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Animated Emoji" width="50" height="50">, 𝐈𝐭'𝐬 𝐒𝐡𝐚𝐝𝐡𝐢𝐫 𝐇𝐞𝐫e <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Animated Emoji" width="30">
+  </h1>
 
   <div align="center">
     <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/SHAD_F%20Banner.png" alt="SHAD_F Banner" style="width: 100%; border-radius: 15px;" />
