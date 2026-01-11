@@ -1,10 +1,22 @@
 <div align="center">
-  <h1 style="font-family: Verdana, sans-serif; 
-             font-size: 2.8em; 
-             color: #3498db;
-             text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">
-     𝐇𝐞𝐲 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Animated Emoji" width="50" height="50">, 𝐈𝐭'𝐬 <p>❚█══ Shadhir ══█❚</p> 𝐇𝐞𝐫e <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Animated Emoji" width="30">
-  </h1>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 20px;">
+    <!-- Left Column: Text -->
+    <div style="text-align: left; flex: 1; min-width: 300px;">
+      <h1 style="font-family: Verdana, sans-serif; 
+                 font-size: 2.8em; 
+                 color: #3498db;
+                 text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+                 margin: 0;">
+         𝐇𝐞𝐲 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Animated Emoji" width="50" height="50">, 
+        <br>
+        𝐈𝐭'𝐬 <span style="color: #ff6b6b;">❚█══ Shadhir ══█❚</span> 𝐇𝐞𝐫e 
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Animated Emoji" width="30">
+      </h1>
+    </div>
+    <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer GIF" width="300" style="border-radius: 15px;" />
+    </div>
+  </div>
 
   <div align="center">
     <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/SHAD_F%20Banner.png" alt="SHAD_F Banner" style="width: 100%; border-radius: 15px;" />
