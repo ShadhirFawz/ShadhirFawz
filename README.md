@@ -34,7 +34,7 @@
                 justify-content: center;">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
            alt="Coding animation" 
-           width="320" 
+           width="250" 
            style="border-radius: 16px; 
                   box-shadow: 0 8px 25px rgba(0,0,0,0.2);"/>
     </div>
