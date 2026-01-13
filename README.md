@@ -105,5 +105,5 @@
 </div>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ShadhirFawz&label=Profile%20Visits&labelColor=6b7280&countColor=3b82f6&style=flat" alt="visitors"/>
+  <a href="https://visitorbadge.io/status?path=Shadhirfawz"><img src="https://api.visitorbadge.io/api/visitors?path=Shadhirfawz&label=Profile%20Visits&labelColor=%23697689&countColor=%23263759&labelStyle=upper"/</a>
 </p>
