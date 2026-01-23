@@ -77,19 +77,27 @@
   <!-- ─────────────────────────────────────────────────────────────── -->
 
   <div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=ShadhirFawz&show_icons=true&theme=tokyonight&border_radius=15" width="420" style="margin: 12px;" style="margin: 10px;" />
-    <img src="https://streak-stats.demolab.com?user=Shadhirfawz&theme=buefy-dark&border_radius=12&border=FFFFFF" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=410&border_radius=15&exclude_repo=DL_Lab" 
-      alt="Top Languages" 
-      height="1000" 
-      style="margin: 10px;" 
-      />
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Shadhirfawz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&border_radius=15" 
+         alt="GitHub Stats" 
+         width="45%" 
+         style="margin: 12px; border-radius: 15px;" />
+    <!-- Streak Stats -->
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Shadhirfawz&theme=nightowl&hide_border=false&border_radius=15" 
+         alt="GitHub Streak" 
+         width="50%" 
+         style="margin: 12px; border-radius: 15px;" />    
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadhirfawz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=410&border_radius=15&exclude_repo=DL_Lab" 
+         alt="Top Languages" 
+         height="1000" 
+         style="margin: 12px; border-radius: 15px;" />
   </div>
 
   <!-- ─────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <h2>🛠️ Technologies & Tools</h2>>
+  <h2>🛠️ Technologies & Tools</h2>
 
   <h3>Languages</h3>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
