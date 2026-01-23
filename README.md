@@ -88,9 +88,9 @@
          width="50%" 
          style="margin: 12px; border-radius: 15px;" />    
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadhirfawz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=410&border_radius=15&exclude_repo=DL_Lab" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadhirfawz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=480&border_radius=15&exclude_repo=DL_Lab" 
          alt="Top Languages" 
-         height="1000" 
+         height="auto" 
          style="margin: 12px; border-radius: 15px;" />
   </div>
 
@@ -157,6 +157,15 @@
     <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" alt="Eclipse IDE" width="60" height="60"/></a>
     <a href="https://figma.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="60" height="60"/></a>
   </p>
+</div>
+
+  <!-- ─────────────────────────────────────────────────────────────── -->
+<div align="center">
+    <!--Random Dev Quote -->
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_radius=15" 
+         alt="Dev Quote" 
+         width="auto" 
+         style="margin: 12px; border-radius: 15px;" />
 </div>
 
   <!-- ─────────────────────────────────────────────────────────────── -->
