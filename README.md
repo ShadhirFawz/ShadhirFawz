@@ -80,12 +80,14 @@
     <!-- GitHub Stats Card -->
     <img src="https://gh-readme-profile.vercel.app/api?username=shadhirfawz&theme=nordfox&border_width=1&border_radius=14&bg_color=14162b&text_color=a78bfa&border_color=ffffff&stroke_color=ffffff&icon_color=eee3af&hide=issues,prs,prs_merged&hide_stroke=true" 
          alt="GitHub Stats" 
-         width="47.5%" 
+         width="45.5%"
+         height="45%"
          style="margin: 12px; border-radius: 15px; border: 3px solid #4aa2df; " />
     <!-- Streak Stats -->
     <img src="https://nirzak-streak-stats.vercel.app/?user=Shadhirfawz&theme=nightowl&hide_border=false&border_radius=15" 
          alt="GitHub Streak" 
-         width="50%" 
+         width="48%"
+         height="60%"
          style="margin: 12px; border-radius: 15px;" />    
     <!-- Top Languages -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadhirfawz&theme=nightowl&hide_border=false&border_radius=15&text_color=a78bfa&border_color=ffffff&stroke_color=ffffff" 
@@ -139,6 +141,9 @@
     </a>
     <a href="https://firebase.google.com/" style="text-decoration: none;">
         <img src="https://www.gstatic.com/images/branding/product/1x/firebase_64dp.png" alt="Firebase" width="60" height="60"/>
+    </a>
+    <a href="https://supabase.com/" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Firebase" width="60" height="60"/>
     </a>
 </p>
 
