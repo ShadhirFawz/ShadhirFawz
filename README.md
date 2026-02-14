@@ -81,7 +81,7 @@
     <img src="https://gh-readme-profile.vercel.app/api?username=shadhirfawz&theme=nordfox&border_width=1&border_radius=14&bg_color=14162b&text_color=a78bfa&border_color=ffffff&stroke_color=ffffff&icon_color=eee3af&hide=issues,prs,prs_merged&hide_stroke=true" 
          alt="GitHub Stats" 
          width="45.5%"
-         height="45%"
+         height="46%"
          style="margin: 12px; border-radius: 15px; border: 3px solid #4aa2df; " />
     <!-- Streak Stats -->
     <img src="https://nirzak-streak-stats.vercel.app/?user=Shadhirfawz&theme=nightowl&hide_border=false&border_radius=15" 
