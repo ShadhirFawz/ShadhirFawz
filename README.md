@@ -23,7 +23,7 @@
                    height="55" 
                    style="vertical-align: middle; margin: 0 8px;">
         <br>
-        𝐈𝐭'𝐬 <span style="color: #ff6b6b; font-weight: bold;">❚══ 𝐒𝐡𝐚𝐝𝐡𝐢𝐫 ══❚</span> 𝐇𝐞𝐫𝐞
+        𝐈𝐭'𝐬 <span style="color: #ff6b6b; font-weight: bold;">══ 𝐒𝐡𝐚𝐝𝐡𝐢𝐫 ══</span> 𝐇𝐞𝐫𝐞
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
              alt="fire" 
              width="38" 
@@ -78,20 +78,18 @@
 
   <div align="center">
     <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Shadhirfawz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&border_radius=15" 
+    <img src="https://gh-readme-profile.vercel.app/api?username=shadhirfawz&theme=nordfox&border_width=1&border_radius=14&bg_color=14162b&text_color=a78bfa&border_color=ffffff&stroke_color=ffffff&icon_color=eee3af&hide=issues,prs,prs_merged&hide_stroke=true" 
          alt="GitHub Stats" 
-         width="45%" 
-         style="margin: 12px; border-radius: 15px;" />
+         width="48%" 
+         style="margin: 12px; border-radius: 15px; border: 3px solid #4aa2df; " />
     <!-- Streak Stats -->
     <img src="https://nirzak-streak-stats.vercel.app/?user=Shadhirfawz&theme=nightowl&hide_border=false&border_radius=15" 
          alt="GitHub Streak" 
          width="50%" 
          style="margin: 12px; border-radius: 15px;" />    
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadhirfawz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=480&border_radius=15&exclude_repo=DL_Lab" 
-         alt="Top Languages" 
-         height="auto" 
-         style="margin: 12px; border-radius: 15px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadhirfawz&theme=nightowl&hide_border=false&border_radius=15&text_color=a78bfa&border_color=ffffff&stroke_color=ffffff" 
+         alt="Profile Details" style="display: block; width: 70%; margin-top: 200px; border: 3px solid #4aa2df; " />
   </div>
 
   <!-- ─────────────────────────────────────────────────────────────── -->
