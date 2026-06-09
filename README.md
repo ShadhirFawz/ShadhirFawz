@@ -153,7 +153,7 @@
   <div align="center" style="margin: 60px 0 40px 0;">
     <h2>🔗 Let's Connect!</h2>
     <p>
-      <a href="https://www.linkedin.com/in/shadhir-fawz-30739730a/">
+      <a href="https://www.linkedin.com/in/shadhir-fawz/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
       <a href="mailto:shadhirfawz19@gmail.com">
