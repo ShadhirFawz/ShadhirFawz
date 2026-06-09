@@ -65,7 +65,7 @@
       <li> I'm currently learning and exploring new technologies.</li>
       <li> A developer with experience in various Programming Languages and Frameworks and also as a mobile application developer.</li>
       <li> Looking to collaborate on exciting projects.</li>
-      <li> Reach me: <a href="https://www.linkedin.com/in/shadhir-fawz-30739730a/">Text me on LinkedIn</a></li>
+      <li> Reach me: <a href="https://www.linkedin.com/in/shadhir-fawz/">Text me on LinkedIn</a></li>
     </ul>
   </div>
 
