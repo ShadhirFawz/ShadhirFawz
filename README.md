@@ -137,6 +137,9 @@
     <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="55"/></a>
     <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Eclipse-Dark.svg" alt="Eclipse IDE" width="55"/></a>
     <a href="https://figma.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="55"/></a>
+    <a href="https://jira.atlassian.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/atlassian-jira.svg" alt="Jira" width="55"/></a>
+    <a href="https://www.atlassian.com/software/confluence"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/atlassian-confluence.svg" alt="Atlassian Confluence" width="55"/></a>
+    <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="Docker" width="55"/></a>
   </p>
 </div>
   <!-- ─────────────────────────────────────────────────────────────── -->
