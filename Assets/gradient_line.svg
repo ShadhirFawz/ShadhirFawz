@@ -1,0 +1,50 @@
+<svg 
+  width="600" 
+  height="40" 
+  viewBox="0 0 600 40" 
+  xmlns="http://www.w3.org/2000/svg" 
+  aria-labelledby="title desc" 
+  role="img">
+  
+  <title id="title">Pink to Blue Flowing Rounded Bar</title>
+  <desc id="desc">Animated horizontal rounded rectangle with pink-to-blue gradient flowing from right to left.</desc>
+
+  <defs>
+    <!-- Pink to Blue Gradient matching your React component -->
+    <linearGradient id="pinkBlueGradient" x1="0%" y1="50%" x2="500%" y2="50%" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#EE696B" />
+      <stop offset="20%" stop-color="#C35D8A" />
+      <stop offset="40%" stop-color="#90559F" />
+      <stop offset="60%" stop-color="#6C4C99" />
+      <stop offset="80%" stop-color="#523A78" />
+      <stop offset="100%" stop-color="#EE696B" />
+    </linearGradient>
+
+    <!-- Animation: Gradient flows from right to left infinitely -->
+    <animate 
+      href="#pinkBlueGradient" 
+      attributeName="x1" 
+      values="0%; -400%" 
+      dur="10s" 
+      repeatCount="indefinite" />
+    <animate 
+      href="#pinkBlueGradient" 
+      attributeName="x2" 
+      values="500%; 100%" 
+      dur="10s" 
+      repeatCount="indefinite" />
+  </defs>
+
+  <!-- Rounded flowing bar -->
+  <rect 
+    x="30" 
+    y="12" 
+    width="540" 
+    height="10" 
+    rx="8" 
+    ry="8" 
+    fill="url(#pinkBlueGradient)" 
+    stroke="#fffff" 
+    stroke-width="3" />
+
+</svg>
