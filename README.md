@@ -45,11 +45,16 @@
     </div>
   </div>
 
-  <!-- Wave line on next line -->
-  <div style="margin: 30px 0;">
+  <br>
+
+  <!-- Wave line with gaps -->
+  <div style="margin: 60px 0 60px 0;">
     <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/gradient_line.svg" 
          alt="wave line" 
+         style="display: block; width: auto;"/>
   </div>
+
+  <br>
 
   <!-- Intro text -->
   <div align="center" style="max-width: 820px; margin: 0 auto 40px auto; font-size: 1.1rem; color: #e0e0e0;">
