@@ -48,7 +48,7 @@
   <div style="margin: 60px 0 60px 0;">
     <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/gradient_line.svg" 
          alt="wave line" 
-         style="display: block; width: auto;"/>
+         style="display: block; width: 60%;"/>
   </div>
 
   <br>
