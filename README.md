@@ -35,13 +35,10 @@
               flex-wrap: wrap; 
               margin: 30px 0;">
     <!-- Left: Banner -->
-    <div style="flex: 1; 
-                min-width: 300px; 
-                display: flex; 
-                justify-content: flex-end;">
-      <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/SHAD_F%20Banner.png?raw=true" 
-           alt="SHAD_F Banner" 
-           style="width: 70%; max-width: 500px; border-radius: 16px;"/>
+    <div style="margin: 60px 0 60px 0;">
+      <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/Banner.svg" 
+           alt="wave line" 
+           style="display: block; width: 70%;"/>
     </div>
   </div>
 
