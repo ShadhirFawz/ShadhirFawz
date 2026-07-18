@@ -80,10 +80,10 @@
          height="46%"
          style="margin: 12px; border-radius: 15px; border: 3px solid #4aa2df; " />
     <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com/?user=Shadhirfawz&theme=nightowl&hide_border=false&border_radius=15" 
+    <img src="https://streak-stats.demolab.com?user=Shadhirfawz&theme=nightowl&hide_border=false&border_radius=15" 
          alt="GitHub Streak" 
          width="48%"
-         height="60%"
+         height="58%"
          style="margin: 12px; border-radius: 15px;" />    
     <!-- Top Languages -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadhirfawz&theme=nightowl&hide_border=false&border_radius=15&text_color=a78bfa&border_color=ffffff&stroke_color=ffffff" 
