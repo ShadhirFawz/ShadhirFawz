@@ -52,8 +52,8 @@
   </div>
 
   <br>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=18&letterSpacing=-1px&pause=1500&width=435&lines=Transforming+ideas+into+digital+experiences)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=18&letterSpacing=-1px&center=true&pause=1500&width=435&lines=Transforming+ideas+into+digital+experiences)](https://git.io/typing-svg) 
 
   <!-- Intro text -->
   <div align="center" style="max-width: 820px; margin: 0 auto 40px auto; font-size: 1.1rem; color: #e0e0e0;">
