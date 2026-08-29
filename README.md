@@ -91,7 +91,7 @@
          height="58%"
          style="margin: 12px; border-radius: 15px;" />    
     <!-- Top Languages -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadhirFawz&bg_color=011627&color=9e4c98&line=808080&point=eee3af&area=true&theme=nightowl&hide_border=false&border_radius=25&text_color=a78bfa&border_color=ffffff&stroke_color=ffffff" 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadhirFawz&theme=nightowl&bg_color=011627&color=9e4c98&line=808080&point=eee3af&area=true&hide_border=false&border_radius=25&text_color=a78bfa&border_color=000000&stroke_color=ffffff&name=Shadhir+Fawz" 
          alt="Profile Details" style="display: block; width: 70%; margin-top: 200px; border: 15px solid #4aa2df; " />
   </div>
 
