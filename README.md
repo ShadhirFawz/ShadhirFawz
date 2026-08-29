@@ -58,7 +58,7 @@
   <!-- Intro text -->
   <div align="center" style="max-width: 820px; margin: 0 auto 40px auto; font-size: 1.1rem; color: #e0e0e0;">
   <div align="left">
-    <p>👋 Hi, I'm <strong>Shadhir Fawz</strong> — a Software Engineering undergraduate at SLIIT with a passion for building scalable, high-impact full-stack applications. With hands-on experience in <strong>Java, PHP, JavaScript, and Dart</strong>, I enjoy crafting clean, maintainable code and turning complex problems into seamless user experiences. Currently seeking opportunities to contribute as a professional Software Engineer.</p>
+    <p>👋 Hi, I'm <strong>Shadhir Fawz</strong>, a Software Engineering undergraduate at SLIIT with a passion for building scalable, high-impact full-stack applications. With hands-on experience in <strong>Java, PHP, JavaScript, and Dart</strong>, I enjoy crafting clean, maintainable code and turning complex problems into seamless user experiences. Currently seeking opportunities to contribute as a professional Software Engineer.</p>
   </div>
 </div>
 
@@ -66,11 +66,10 @@
   <div align="left">
     <ul style="list-style-type:none;">
       <li>Final-year BSc(Hons) Software Engineering student at SLIIT</li>
-      <li>Former Software Engineer Intern at **Xennex** — contributed to SaaS platforms with end-to-end implementation</li>
-      <li>Currently exploring **AI/ML** and modern full-stack technologies</li>
-      <li>Working with: **Java, Spring Boot, TypeScript, React.js, Next.js, Laravel, Flutter**</li>
-      <li>Experienced with: **MongoDB, PostgreSQL, Firebase, MySQL, Oracle**</li>
-      <li>Tools: **Docker, Git, GitHub, Figma, WordPress**</li>
+      <li>Currently exploring <strong> AI/ML </strong> and modern full-stack technologies</li>
+      <li>Working with: <strong>Java, Spring Boot, TypeScript, React.js, Next.js, Laravel, Flutter</strong></li>
+      <li>Experienced with: <strong>MongoDB, PostgreSQL, Firebase, MySQL, Oracle</strong> </li>
+      <li>Tools: <strong>Docker, Git, GitHub, Figma, WordPress</strong></li>
       <li>Reach me: <a href="https://www.linkedin.com/in/shadhir-fawz/">Text me on LinkedIn</a></li>
     </ul>
   </div>
