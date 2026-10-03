@@ -65,7 +65,7 @@
   <h2> </h2>
   <div align="left">
     <ul style="list-style-type:none;">
-      <li>Final-year BSc(Hons) Software Engineering student at SLIIT</li>
+      <li>Graduate in BSc(Hons) IT Specializing Software Engineering at SLIIT</li>
       <li>Currently exploring <strong> AI/ML </strong> and modern full-stack technologies</li>
       <li>Working with: <strong>Java, Spring Boot, TypeScript, React.js, Next.js, Laravel, Flutter</strong></li>
       <li>Experienced with: <strong>MongoDB, PostgreSQL, Firebase, MySQL, Oracle</strong> </li>
