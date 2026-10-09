@@ -36,7 +36,7 @@
               margin: 30px 0;">
     <!-- Left: Banner -->
     <div style="margin: 60px 0 60px 0;">
-      <img src="https://github.com/ShadhirFawz/ShadhirFawz/blob/main/Assets/Banner.svg" 
+      <img src="https://raw.githubusercontent.com/ShadhirFawz/ShadhirFawz/main/Assets/Banner.svg" 
            alt="wave line" 
            style="display: block; width: 70%;"/>
     </div>
@@ -58,15 +58,15 @@
   <!-- Intro text -->
   <div align="center" style="max-width: 820px; margin: 0 auto 40px auto; font-size: 1.1rem; color: #e0e0e0;">
   <div align="left">
-    <p>👋 Hi, I'm <strong>Shadhir Fawz</strong>, a Software Engineering undergraduate at SLIIT with a passion for building scalable, high-impact full-stack applications. With hands-on experience in <strong>Java, PHP, JavaScript, and Dart</strong>, I enjoy crafting clean, maintainable code and turning complex problems into seamless user experiences. Currently seeking opportunities to contribute as a professional Software Engineer.</p>
+    <p>👋 Hi, I'm <strong>Shadhir Fawz</strong>, a Software Engineering graduate at SLIIT with a passion for building scalable, high-impact full-stack applications. With hands-on experience in <strong>Java, PHP, JavaScript, and Dart</strong>, and currently exploring updated <strong>Go</strong> and <strong>Rust</strong> languages. I enjoy crafting clean, maintainable code and turning complex problems into seamless user experiences. Currently seeking opportunities to contribute as a professional Software Engineer.</p>
   </div>
 </div>
 
   <h2> </h2>
   <div align="left">
     <ul style="list-style-type:none;">
-      <li>Graduate in BSc(Hons) IT Specializing Software Engineering at SLIIT</li>
-      <li>Currently exploring <strong> AI/ML </strong> and modern full-stack technologies</li>
+      <li>Graduate in <strong>BSc(Hons) IT Specializing Software Engineering</strong> at <strong>SLIIT</strong></li>
+      <li>Currently exploring <strong> AI/ML </strong> and modern full-stack technologies with <strong>Go</strong> and <strong>Rust</strong></li>
       <li>Working with: <strong>Java, Spring Boot, TypeScript, React.js, Next.js, Laravel, Flutter</strong></li>
       <li>Experienced with: <strong>MongoDB, PostgreSQL, Firebase, MySQL, Oracle</strong> </li>
       <li>Tools: <strong>Docker, Git, GitHub, Figma, WordPress</strong></li>
@@ -86,12 +86,22 @@
     <!-- Streak Stats -->
     <img src="https://streak-stats.demolab.com?user=Shadhirfawz&theme=nightowl&hide_border=false&border_radius=15" 
          alt="GitHub Streak" 
-         width="48%"
-         height="58%"
+         width="47.5%"
+         height="50%"
          style="margin: 12px; border-radius: 15px;" />    
+    <!-- Profile Details -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadhirFawz&theme=nightowl&border_color=ffffff&text_color=a78bfa&border_radius=25"
+     alt="Profile Details"
+     style="display: block;
+            width: 70%;
+            border-radius: 25px;" />
     <!-- Top Languages -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadhirFawz&theme=nightowl&bg_color=011627&color=9e4c98&line=808080&point=eee3af&area=true&hide_border=false&border_radius=25&text_color=a78bfa&border_color=000000&stroke_color=ffffff&name=Shadhir+Fawz" 
-         alt="Profile Details" style="display: block; width: 70%; margin-top: 200px; border: 15px solid #4aa2df; " />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&hide=jupyter%20notebook&theme=nightowl&layout=compact&langs_count=8&card_width=500&hide_border=false&bg_color=011627&text_color=a78bfa&border_color=ffffff&border_radius=15"
+     alt="Language Stat"
+     style="display: block;
+            margin: 200px auto 0 auto;
+            border: 15px solid #4aa2df;
+            border-radius: 15px;" />
   </div>
 
   <!-- ─────────────────────────────────────────────────────────────── -->
