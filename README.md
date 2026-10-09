@@ -96,7 +96,7 @@
             width: 70%;
             border-radius: 25px;" />
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&hide=jupyter%20notebook&theme=nightowl&layout=compact&langs_count=8&card_width=450&hide_border=false&bg_color=011627&text_color=a78bfa&border_color=ffffff&border_radius=15"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadhirfawz&hide=jupyter%20notebook&theme=nightowl&layout=compact&langs_count=8&card_width=450&card_height=200&hide_border=false&bg_color=011627&text_color=a78bfa&border_color=ffffff&border_radius=15"
      alt="Language Stat"
      style="display: block;
             margin: 200px auto 0 auto;
