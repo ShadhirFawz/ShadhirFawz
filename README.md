@@ -2,30 +2,6 @@
     <a href="https://visitorbadge.io/status?path=Shadhirfawz"><img src="https://api.visitorbadge.io/api/visitors?path=Shadhirfawz&label=Profile%20Visits&labelColor=%23697689&countColor=%23263759&labelStyle=upper"/></a>
   </p>
 <div align="center">
-<div align="center">
-  <div style="margin: 40px 0 30px 0;">
-    <h1 style="font-family: Verdana, Geneva, sans-serif;
-               font-size: clamp(2.2rem, 5vw, 2.9rem);
-               color: #3498db;
-               text-shadow: 2px 2px 4px rgba(0,0,0,0.15);
-               margin: 0;
-               line-height: 1.3;">
-      𝐇𝐞𝐲 
-      <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
-           alt="wave" 
-           width="55" 
-           style="vertical-align: middle; margin: 0 6px;"/>
-      <br> 
-      𝐈𝐭'𝐬 
-      <span style="color: #ff6b6b; font-weight: bold;">══ 𝐒𝐡𝐚𝐝𝐡𝐢𝐫 ══</span> 
-      𝐇𝐞𝐫𝐞 
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-           alt="fire" 
-           width="38" 
-           style="vertical-align: middle; margin-left: 8px;"/>
-    </h1>
-  </div>
-</div>
 
   <!-- Banner and GIF in same line -->
   <div style="display: flex; 
@@ -55,22 +31,46 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=18&letterSpacing=-1px&center=true&pause=1500&width=435&lines=DDesigning+for+delight.+Engineering+for+durability.+)](https://git.io/typing-svg) 
 
-  <!-- Intro text -->
-  <div align="center" style="max-width: 820px; margin: 0 auto 40px auto; font-size: 1.1rem; color: #e0e0e0;">
-  <div align="left">
-    <p>👋 Hi, I'm <strong>Shadhir Fawz</strong>, a Software Engineering graduate at SLIIT with a passion for building scalable, high-impact full-stack applications. With hands-on experience in <strong>Java, PHP, JavaScript, and Dart</strong>, and currently exploring updated <strong>Go</strong> and <strong>Rust</strong> languages. I enjoy crafting clean, maintainable code and turning complex problems into seamless user experiences. Currently seeking opportunities to contribute as a professional Software Engineer.</p>
+</div>
+
+<div align="center">
+  <div style="margin: 40px 0 30px 0;">
+    <h1 style="font-family: Verdana, Geneva, sans-serif;
+               font-size: clamp(2.2rem, 5vw, 2.9rem);
+               color: #3498db;
+               text-shadow: 2px 2px 4px rgba(0,0,0,0.15);
+               margin: 0;
+               line-height: 1.3;">
+      𝐇𝐞𝐲 
+      <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
+           alt="wave" 
+           width="55" 
+           style="vertical-align: middle; margin: 0 6px;"/>
+      𝐈𝐭'𝐬 
+      <span style="color: #ff6b6b; font-weight: bold;"> 𝐒𝐡𝐚𝐝𝐡𝐢𝐫 </span> 
+      𝐇𝐞𝐫𝐞 
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+           alt="fire" 
+           width="38" 
+           style="vertical-align: middle; margin-left: 8px;"/>
+    </h1>
   </div>
 </div>
 
   <h2> </h2>
   <div align="left">
     <ul style="list-style-type:none;">
-      <li>Graduate in <strong>BSc(Hons) IT Specializing Software Engineering</strong> at <strong>SLIIT</strong></li>
-      <li>Currently exploring <strong> AI/ML </strong> and modern full-stack technologies with <strong>Go</strong> and <strong>Rust</strong></li>
-      <li>Working with: <strong>Java, Spring Boot, TypeScript, React.js, Next.js, Laravel, Flutter</strong></li>
-      <li>Experienced with: <strong>MongoDB, PostgreSQL, Firebase, MySQL, Oracle</strong> </li>
-      <li>Tools: <strong>Docker, Git, GitHub, Figma, WordPress</strong></li>
-      <li>Reach me: <a href="https://www.linkedin.com/in/shadhir-fawz/">Text me on LinkedIn</a></li>
+      <li><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/da8f0ee6-31c1-436d-a674-015003e8bdde" />
+ &nbsp;Graduate → <strong>BSc(Hons) IT Specializing Software Engineering</strong> : <strong>SLIIT</strong></li>
+      <li><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/94075c7a-e58b-4a1a-8dad-dd7f2ac9c887" />
+ &nbsp;Exploring → AI : <strong>AI / ML Integration & Automation</strong> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages : <strong>Go</strong> / <strong>Rust</strong> </li>
+      <li><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/92e5359e-bfe3-495d-b9b7-e973df0352db" />
+&nbsp;Working with → <strong>Java(Spring Boot)</strong>, <strong>PHP(Laravel)</strong>, <strong>Python(LLM)</strong>, <strong>Next.js</strong>, <strong>Flutter</strong> </li>
+      <li><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/f9f3dcf5-d3d2-43fc-b377-8d916aed4243" />
+&nbsp;Passionate @ → <strong>Open Source contribution</strong> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Full-Stack Development</strong><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Exploring new technologies</strong></li>
+      <li><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/da386e40-9ffa-45d7-9854-0e217003c300" />
+ &nbsp;Reach me on :&nbsp; <img width="24" alt="image" src="https://github.com/user-attachments/assets/ed2011c1-9d43-451c-9fc7-57231b977b6f" />
+&nbsp;<a href="https://www.linkedin.com/in/shadhir-fawz/">LinkedIn</a></li>
     </ul>
   </div>
 
