@@ -69,7 +69,7 @@
       <li><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/f9f3dcf5-d3d2-43fc-b377-8d916aed4243" />
 &nbsp;Passionate @ → <strong>Open Source contribution</strong> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Full-Stack Development</strong><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Exploring new technologies</strong></li>
       <li><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/da386e40-9ffa-45d7-9854-0e217003c300" />
- &nbsp;Reach me on :&nbsp; <img width="24" alt="image" src="https://github.com/user-attachments/assets/ed2011c1-9d43-451c-9fc7-57231b977b6f" />
+ &nbsp;Reach me on :&nbsp; <img width="16" alt="image" src="https://github.com/user-attachments/assets/ed2011c1-9d43-451c-9fc7-57231b977b6f" />
 &nbsp;<a href="https://www.linkedin.com/in/shadhir-fawz/">LinkedIn</a></li>
     </ul>
   </div>
@@ -108,9 +108,6 @@
     <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="55"/></a>
     <a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=dotnet" alt="JavaScript" width="55"/></a>
     <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="55"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" width="55"/></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="55"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" width="55"/></a>
     <a href="https://cpp-lang.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++" width="55"/></a>
     <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="55"/></a>
     <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="55" style="filter: brightness(0) invert(1);"/></a>
@@ -149,6 +146,18 @@
     <a href="https://jira.atlassian.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/atlassian-jira.svg" alt="Jira" width="55"/></a>
     <a href="https://www.atlassian.com/software/confluence"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/atlassian-confluence.svg" alt="Atlassian Confluence" width="55"/></a>
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="Docker" width="55"/></a>
+  </p>
+
+  <h3>Other Libraries</h3>
+  <!-- Scientific Computing -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   </p>
 </div>
   <!-- ─────────────────────────────────────────────────────────────── -->
